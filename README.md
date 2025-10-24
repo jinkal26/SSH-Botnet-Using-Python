@@ -3,15 +3,6 @@
 
 ---
 
-## Important — Safety & Legal Notice
-
-I cannot help create malware, botnets, or tools intended to compromise systems or coordinate unauthorized access. Building or distributing an SSH botnet (or any botnet) is illegal and harmful.
-
-Instead, this repository provides a **safe, defensive, and educational** alternative: an SSH Botnet *Simulation & Detection Lab* designed to teach defenders how botnets operate, how to detect and investigate their activity, and how to harden systems to prevent compromise. All activities are restricted to isolated, authorized lab environments and use synthetic, non-malicious simulations.
-
-Use these materials only in controlled lab networks, virtual machines, or containerized environments that you own. Obtain written authorization for any testing on shared or production infrastructure.
-
----
 
 ## Project Overview
 
